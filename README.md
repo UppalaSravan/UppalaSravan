@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sravan Uppala</h1>
 <h3 align="center">A passionate full stack developer from United States with a work experience of over 5 years</h3>
 
+
 - 🌱 I’m currently Pursuing **Masters in Computer Science at UMKC**
 
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **suppala0110@gmail.com**
+
+-  LinkedIn: https://www.linkedin.com/in/sravanuppala/
 
 
 <p align="left">
