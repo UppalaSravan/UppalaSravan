@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Pursuing **Masters in Computer Science at UMKC**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Java Development/ Spring boot development**
 
 - 📫 How to reach me **suppala0110@gmail.com**
 
