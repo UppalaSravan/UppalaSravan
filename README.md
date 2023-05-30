@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack developer from United States with a work experience of over 5 years</h3>
 
 
-- 🌱 I’m currently Pursuing **Masters in Computer Science at UMKC**
+- 🌱 Recent Grad, Graduted in **Masters in Computer Science at UMKC**
 
 - 💬 Ask me about **Java Development/ Spring boot development**
 
