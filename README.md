@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sravan Uppala</h1>
-<h3 align="center">A passionate full stack developer from United States with a work experience of over 5 years</h3>
+<h3 align="center">A passionate Software developer from United States with a work experience of 4.6 years</h3>
 
 
 - 🌱 Recent Grad, Graduted in **Masters in Computer Science at UMKC**
