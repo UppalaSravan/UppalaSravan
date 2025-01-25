@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Sravan Uppala</h1>
-<h3 align="center">A passionate Software developer from United States with a work experience of 5.2 years</h3>
+<h3 align="center">A passionate Software developer from United States with a work experience of around 6 years</h3>
 
 
-- 🌱 Recent Grad, Graduted in **Masters in Computer Science at UMKC**
+- 🌱 Graduted in **Masters in Computer Science at UMKC**
+- 🌱 Currently Working as **Senior Associate Projects - Software Developer at Cognizant Technology Solutions**
 
 - 💬 Ask me about **Java Development/ Spring boot development**
 
