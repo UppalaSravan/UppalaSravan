@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 🌱 Graduted in **Masters in Computer Science at UMKC**
 - 🌱 Currently Working as **Senior Associate Projects - Software Developer at Cognizant Technology Solutions**
 
-- 💬 Ask me about **Java Development/ Spring boot development**
+- 💬 Ask me about **Web Development/ Microservices/ Java Stack/ Cloud development**
 
-- 📫 How to reach me **suppala0110@gmail.com**
+- 📫 How to reach me **sravan.uppala01@gmail.com**
 
 
 <p align="left">
